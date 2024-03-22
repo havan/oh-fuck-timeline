@@ -29,6 +29,7 @@ https://x.com/Slerfsol/status/1769421177615716366?s=20
 https://x.com/Slerfsol/status/1769441083845398707?s=20
 
 **Token address:** https://solscan.io/token/7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3
+
 **Contract Address:** `7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3`
 
 ### $SLERF predictions :))
