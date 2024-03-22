@@ -130,6 +130,8 @@ https://x.com/Slerfsol/status/1769784593291280674?s=20
 
 https://x.com/gate_io/status/1769669014932845050?s=20
 
+## March 19
+
 ### $SLERF enabled Raydium to reach more volume then Uniswap
 
 ![](./assets/more-volume-then-uniswap.png)
