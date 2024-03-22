@@ -1,5 +1,7 @@
 # Timeline of the Slerf Saga
 
+`[WIP]`
+
 ## March 16-17
 
 ### @slerfsol created a degen presale, collecting SOL from people on Twitter, around 16-17 March 2024.
@@ -207,20 +209,3 @@ https://x.com/Slerfsol/status/1770150583980183724?s=20
 ## TO BE CONTINUED...
 
 ### @slerfsol continued to hold Twitter Spaces throughout the whole journey and is still doing it...
-
-—
-10 percent batches:
-https://x.com/Slerfsol/status/1769621940031922473?s=20
-
-
-Burning of 500 million $SLERF
-https://solscan.io/tx/hzVc7DevXGi3DKEyrR23PVV6DRmpA1LgnwUeQkNjnm42tQ7rGipATsLuuSnEaKVbDahWJnwbm2ZGWEF4CTwaBMG
-
-
-Oh fuck twit:
-https://x.com/Slerfsol/status/1769626097216315881?s=20
-
-LP Token burned:
-https://x.com/Slerfsol/status/1769620303229952445?s=20
-https://solscan.io/tx/FFe9R9AfNx7B5vSHGABNSD32mMpynPA7sxF8PpEWDPwmP341jnpQ3ax8TJUXu3xCwvkEKJ9kcrdWz5QZBE8u9fT
-
