@@ -66,6 +66,8 @@ While incinerating the shit tokens in his wallet, he accidentally included the 5
 
 Someone messaged him why he burned all his tokens and he said I didn’t. Then checked the chain and realized what he did. And tweeted the infamous “oh fuck” tweet:
 
+![](./assets/the-oh-fuck-tweet.png)
+
 https://x.com/Slerfsol/status/1769626097216315881?s=20
 
 **Burning of 500 million $SLERF**
