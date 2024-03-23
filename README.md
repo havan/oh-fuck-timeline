@@ -10,6 +10,16 @@ The Slerf Saga is emblematic of the volatile and unpredictable nature of the cry
 
 The series of events surrounding the Slerf Saga, from its explosive start to the community's response to setbacks, underscores the speculative dynamics of the crypto market and the collective efforts to navigate its uncertainties. It remains a cautionary tale about the importance of diligence and the potential for recovery through community support in the fast-paced world of cryptocurrency.
 
+## Cornerstone
+
+| Events & Info | Link |
+| --- | --- |
+| **Presale Wallet** | [HdENn8wP6srk1AuE2CaJj6bRbjcU2kYs12H4C4HgNAsF](https://solscan.io/account/HdENn8wP6srk1AuE2CaJj6bRbjcU2kYs12H4C4HgNAsF) | 
+| **Contract Address** | [7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3](https://solscan.io/token/7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3) |
+| **LP Token Burn** | [Tweet](https://x.com/Slerfsol/status/1769620303229952445?s=20) & [Transaction](https://solscan.io/tx/FFe9R9AfNx7B5vSHGABNSD32mMpynPA7sxF8PpEWDPwmP341jnpQ3ax8TJUXu3xCwvkEKJ9kcrdWz5QZBE8u9fT) |
+| **"oh fuck"** | [Tweet](https://x.com/Slerfsol/status/1769626097216315881?s=20) & [Transaction](https://solscan.io/tx/hzVc7DevXGi3DKEyrR23PVV6DRmpA1LgnwUeQkNjnm42tQ7rGipATsLuuSnEaKVbDahWJnwbm2ZGWEF4CTwaBMG) |
+| **Donation Wallet Address** | [fCuw5ppJ9aZYzjm8EsT2fHwxV1h5JwUfqXM44iX3Pzb](https://www.lbank.com/slerf-donation) |
+
 # Timeline of the Slerf Saga
 
 `[WIP]`
