@@ -239,6 +239,16 @@ https://x.com/Slerfsol/status/1770150583980183724?s=20
 
 https://twitter.com/0xYZVR/status/1770571364195324051
 
+## March 21
+
+### Bitget commitment of trading fees
+
+Bitget announced their commitment to donating trading fees and also released their 3-day fee chart.
+
+![](./assets/bitget-fee-chart.png)
+
+https://twitter.com/GracyBitget/status/1770721437000540417
+
 ## TO BE CONTINUED...
 
 ### @slerfsol continued to hold Twitter Spaces throughout the whole journey and is still doing it...
