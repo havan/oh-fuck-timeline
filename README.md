@@ -20,6 +20,14 @@ The series of events surrounding the Slerf Saga, from its explosive start to the
 | **"oh fuck"** | [Tweet](https://x.com/Slerfsol/status/1769626097216315881?s=20) & [Transaction](https://solscan.io/tx/hzVc7DevXGi3DKEyrR23PVV6DRmpA1LgnwUeQkNjnm42tQ7rGipATsLuuSnEaKVbDahWJnwbm2ZGWEF4CTwaBMG) |
 | **Donation Wallet Address** | [fCuw5ppJ9aZYzjm8EsT2fHwxV1h5JwUfqXM44iX3Pzb](https://www.lbank.com/slerf-donation) |
 
+## Branding
+
+Get your blank from here to make your own PFP! Thanks to [@HodlerPete](https://x.com/HodlerPete/status/1770494442887155974?s=20). Give him a follow!
+
+| Slerf Blank      | [](./branding/slerf-blank.png) | 
+| --- | --- |
+| Full Transparent | [](./branding/slerf-full-transparent.png) | 
+
 # Timeline of the Slerf Saga
 
 `[WIP]`
