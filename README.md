@@ -251,4 +251,6 @@ https://twitter.com/GracyBitget/status/1770721437000540417
 
 ## TO BE CONTINUED...
 
+This document is work-in-progress and it's being updated regularly.
+
 ### @slerfsol continued to hold Twitter Spaces throughout the whole journey and is still doing it...
