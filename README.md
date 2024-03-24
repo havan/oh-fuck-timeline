@@ -249,6 +249,14 @@ Bitget announced their commitment to donating trading fees and also released the
 
 https://twitter.com/GracyBitget/status/1770721437000540417
 
+### Soul-Bound NFTs
+
+@slerfsol announced that they are planning doing [soul-bound NFTs](https://opensea.io/learn/nft/what-are-soulbound-tokens#:~:text=A%20soulbound%20token%20(SBT)%2C,affiliations%2C%20achievements%2C%20or%20memberships.) for presalers and also for donators.
+
+![](./assets/soul-bound-nfts-planning.png)
+
+https://x.com/Slerfsol/status/1770781114325405820?s=20
+
 ## TO BE CONTINUED...
 
 This document is work-in-progress and it's being updated regularly.
