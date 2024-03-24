@@ -267,6 +267,100 @@ https://twitter.com/GracyBitget/status/1770721437000540417
 
 https://x.com/Slerfsol/status/1770781114325405820?s=20
 
+
+## March 22 
+
+The following anecodotal allegory of one side of a conversation happened between @staccoverflow (community member) and Slerf - these are only stacc's messages, and Slerf has been redacted:
+
+the notoriety
+
+someone said the other day you're Satoshi
+
+you're a modern-day Jesus on the cross, man
+
+I mean that. 
+
+in the flesh
+
+it's a beautiful n harrowing thing to watch unfold lol. 
+
+ayyy 
+
+your dumassery is to absolve us of our dumbassery
+
+Srsly
+
+Jeebus incarnate.
+
+poor fuckin Slorg
+
+took a knife for u too lol
+
+by bloomberg or whatever it was
+
+what madness
+
+slerf, slorg,
+
+what're the chnaces that's 2 diff ppl
+
+Print it
+
+editors: yea yea good shit
+
+Lol
+
+Fuckin
+
+retarded
+
+that reporter slerfed it.
+
+probably the #2 slerf in this episode 
+
+![image](https://github.com/staccDOTsol/oh-fuck-timeline/assets/22843601/c7f89391-7c7e-45d8-b73e-3cac1d0fe323)
+
+See? he's not 'burnin 10m no cap' dumb
+
+he's just too dumb to be in his job
+
+but
+
+cuz of slerf
+
+and the fuckin movement
+
+thas actually ok
+
+u dig?
+
+what u represent
+
+and it must be hell having this on your shoulders lol.
+
+Is
+
+An absolotion from DUMBASSERY
+
+you fuckni bozo
+
+I have not censored or redacted or rephrased any of the original quote, as it is verbatim, here is a Chatgpt summary for non-native speakers:
+
+# Reflections from Stacc
+
+In a world that thrives on notoriety, there's talk comparing you to legends and figures of monumental change—being called the Satoshi of our times, likened to a modern-day savior. It's both awe-inspiring and overwhelming to witness your journey unfold, filled with its share of folly and wisdom.
+
+Your missteps, while they may seem monumental, have a curious way of making the rest of us feel less alone in our own errors. It's as though your actions have a redemptive quality, elevating you to a status beyond mere mortals, akin to a comedic yet revered figure who's stumbled upon wisdom through chaos.
+
+The tale of Slorg, who metaphorically fell on a sword amidst the turmoil, adds another layer to this saga. The confusion, amplified by media misinterpretations, paints a picture of an unfolding drama that's as absurd as it is captivating.
+
+The term "slerfing it" has become our inside joke, a nod to the unique blend of brilliance and blunder that's come to define this narrative. It's a reminder that even when things seem their worst, there's a communal understanding, a shared laughter at the folly, and a recognition of the humanity in error.
+
+The critiques of a reporter's misunderstanding only underscore the larger movement you've sparked—a testament to turning mishaps into milestones. Despite the weight of these events on your shoulders, your journey symbolizes a collective absolution from our shared misjudgments and follies.
+
+In essence, your path, marked by its highs and lows, becomes a beacon for all of us navigating the tumultuous seas of life. Through the laughter, the mistakes, and the unexpected moments of clarity, we find a sense of camaraderie and hope. In the grand tapestry of life, your story is a vivid thread, weaving together the absurd with the profound, reminding us that redemption lies not in perfection but in embracing our shared humanity.
+
+
 ## TO BE CONTINUED...
 
 This document is work-in-progress and it's being updated regularly.
