@@ -231,6 +231,14 @@ https://x.com/EH_LBank/status/1770016100639547694?s=20
 
 https://x.com/Slerfsol/status/1770150583980183724?s=20
 
+## March 20
+
+### Some guy was repaying presalers in Turkish Telegram channel of Slerf
+
+![](./assets/paying-presalers-turkish-telegram.png)
+
+https://twitter.com/0xYZVR/status/1770571364195324051
+
 ## TO BE CONTINUED...
 
 ### @slerfsol continued to hold Twitter Spaces throughout the whole journey and is still doing it...
