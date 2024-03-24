@@ -10,6 +10,8 @@ The Slerf Saga is emblematic of the volatile and unpredictable nature of the cry
 
 The series of events surrounding the Slerf Saga, from its explosive start to the community's response to setbacks, underscores the speculative dynamics of the crypto market and the collective efforts to navigate its uncertainties. It remains a cautionary tale about the importance of diligence and the potential for recovery through community support in the fast-paced world of cryptocurrency.
 
+Scroll down below to check out the timeline...
+
 ## Cornerstone
 
 | Events & Info | Link |
@@ -24,9 +26,9 @@ The series of events surrounding the Slerf Saga, from its explosive start to the
 
 Get your blank from here to make your own PFP! Thanks to [@HodlerPete](https://x.com/HodlerPete/status/1770494442887155974?s=20). Give him a follow!
 
-| Slerf Blank      | [](./branding/slerf-blank.png) | 
+| Slerf Blank      | ![](./branding/slerf-blank.png) | 
 | --- | --- |
-| Full Transparent | [](./branding/slerf-full-transparent.png) | 
+| Full Transparent | ![](./branding/slerf-full-transparent.png) | 
 
 # Timeline of the Slerf Saga
 
