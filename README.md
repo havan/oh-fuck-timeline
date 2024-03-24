@@ -278,7 +278,7 @@ someone said the other day you're Satoshi
 
 you're a modern-day Jesus on the cross, man
 
-I mean that.
+I mean that. 
 
 in the flesh
 
